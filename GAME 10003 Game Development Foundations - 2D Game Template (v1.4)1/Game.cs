@@ -11,12 +11,12 @@ namespace MohawkGame2D
     public class Game
     {
         // Place your variables here:
-        Color yellow    = new Color("#ebd9b0");
-        Color lightBlue = new Color("#85b396");
-        Color aqua      = new Color("#445e4e");
-        Color green     = new Color("#abc123");
-        Color darkGreen = new Color("#1f2b24");      
-        Color color     = Random.Color();
+        Color yellow        = new Color("#ebd9b0");
+        Color lightBlue     = new Color("#85b396");
+        Color aqua          = new Color("#445e4e");
+        Color green         = new Color("#abc123");
+        Color darkGreen     = new Color("#1f2b24");      
+        Color color         = Random.Color();
         Color[] berryColors = new Color[2];
         Color[] cloudColors = new Color[2];
 
